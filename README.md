@@ -38,7 +38,7 @@ Displays true label vs predicted label
 
 Visualizes all images using Matplotlib
 
-Technologies Used
+# Technologies Used
 
 Python
 
